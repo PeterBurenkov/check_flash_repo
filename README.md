@@ -1,5 +1,7 @@
 # check_flash_repo
 
+Please put *.csv files into folder 'data'
+
 
 **setup with venv**  
 pip -h  
